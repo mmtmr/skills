@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand-Grounded UI Design"
+  short_description: "Research and generate brand-grounded UI proposals"
+  default_prompt: "Use $brand-grounded-ui-design to build an evidence pack and generate a brand-grounded UI proposal."
